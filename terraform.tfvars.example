@@ -1,0 +1,5 @@
+pm_api_url          = "https://<Proxmox_URL_here>:8006/api2/json"
+pm_api_token_id     = "root@pam!terraform" # Token ID here
+pm_api_token_secret = "12345678-abcd-1234-5678-abcdefgh1234" # Token secret here
+node_name           = "pvesrv03" # replace with your Proxmox node name
+lxc_password        = "password here" # default password here
