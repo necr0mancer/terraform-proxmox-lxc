@@ -6,3 +6,4 @@ then run `terraform plan -out 'tf.plan'` to see proposed build plan
 
 next, `terraform apply tf.plan` to actually build
 
+`terraform destroy` to get rid of them :)
